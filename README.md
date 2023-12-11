@@ -19,7 +19,9 @@ Python实现假条统计并合并到Excel表格中
 pip install pandas
 ```
 
-然后把上面文件中 `all-text.py`，`一键执行假条统计.bat`以及你要统计的假条图片放在同一个文件夹中
+然后[点击这里](https://github.com/W1ndys/Image-to-Excel/releases/download/Image-to-Excel/Image-to-Excel_v1.1.zip)下载必要的文件
+
+下载之后解压到你想解压的地方，把你需要统计的假条放在跟原先两个文件同级目录
 
 请注意：！！！
 
