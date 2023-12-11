@@ -61,7 +61,7 @@ pip install pandas
 
 # 效果预览
 
-![img](file:///F:\QQ message\Tencent Files\2769731875\nt_qq\nt_data\Pic\2023-12\Ori\839c87ea435345dc261d1bb8ed67a2e4.png)
+![img](img/839c87ea435345dc261d1bb8ed67a2e4.png)
 
 # 与ai的对话节选
 
