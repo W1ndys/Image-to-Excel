@@ -69,3 +69,13 @@ df = pd.DataFrame(data)
 excel_file = os.path.join(os.getcwd(), '假条统计结果.xlsx')
 with pd.ExcelWriter(excel_file, engine='openpyxl', mode='w') as writer:
     df.to_excel(writer, index=False, header=False)
+
+# 成功运行的回显信息
+print("\n")
+print("***************************************************")
+print("**  程序成功运行并完成统计，你可以打开表格查看!  **")
+print("***************************************************")
+print("**  这个世界有了ai将会更加便利——W1ndys   **********")
+print("**  本项目由ChatGPT强力驱动              **********")
+print("**  本项目由W1ndys主持构建               **********")
+print("***************************************************")

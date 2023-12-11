@@ -1,2 +1,2 @@
 @echo off
-cmd /c python all-text.py
+cmd /k python all-text.py
