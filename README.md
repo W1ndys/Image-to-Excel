@@ -65,7 +65,7 @@ pip install pandas
 
 # 效果预览
 
-![ae9524462e35f42e1073e479a5ef4fc6](/img/ae9524462e35f42e1073e479a5ef4fc6.png)
+![1](/img/ae9524462e35f42e1073e479a5ef4fc6.png)
 
 # 与ai的对话节选
 
