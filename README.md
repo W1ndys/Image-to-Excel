@@ -21,7 +21,7 @@ pip install pandas
 
 然后[点击这里](https://github.com/W1ndys/Image-to-Excel/releases/download/Image-to-Excel/Image-to-Excel_v1.1.zip)下载必要的文件
 
-下载之后解压到你想解压的地方，把你需要统计的假条放在跟原先两个文件同级目录
+下载之后解压到你想解压的地方，把你需要统计的假条放在跟原先两个文件同级目录。
 
 请注意：！！！
 
